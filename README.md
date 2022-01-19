@@ -9,6 +9,5 @@ Max can:
 ![max](img/max.jpg)
 
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
 
